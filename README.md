@@ -1,6 +1,6 @@
-# Logistic Regression - Stock Market Crash Prediction
+# Logistic Regression - 
 
-A binary classification project using logistic regression to predict if the stock market will crash tomorrow based on historical features.
+A binary classification project using logistic regression
 
 ## 📦 Features
 - Logistic regression with hyperparameter tuning (GridSearchCV & RandomizedSearchCV)
