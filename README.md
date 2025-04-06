@@ -1,4 +1,4 @@
-# Logistic Regression - 
+# Logistic Regression 
 
 A binary classification project using logistic regression
 
