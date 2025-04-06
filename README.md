@@ -9,7 +9,7 @@ A binary classification project using logistic regression
 - Git-tracked with a clean `.gitignore`
 
 ## 📊 Dataset
-Simulated dataset representing binary outcomes (0 = no crash, 1 = crash).
+Simulated dataset representing binary outcomes .
 
 ## ⚙️ Model Tuning
 - Grid Search & Randomized Search across:
